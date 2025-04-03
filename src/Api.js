@@ -1,6 +1,6 @@
 export const geoUrl = 'https://wft-geo-db.p.rapidapi.com/v1/geo';
 export const weatherUrl = "https://api.openweathermap.org/data/2.5"
-export const forcastUrl = "http://api.openweathermap.org/data/2.5"
+export const forcastUrl = "https://api.openweathermap.org/data/2.5"
 export const options = {
 	method: 'GET',
 	headers: {
